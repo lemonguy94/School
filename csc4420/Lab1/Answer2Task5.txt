@@ -1,0 +1,20 @@
+1 - What is the default sort order for ls?
+The default sort order for ls is alphabetical order.
+
+2 - What does "ls - a" do?
+"ls -a" displays all of the directories and files in the current directory, and also includes
+hidden files (files starting with .)
+
+3 - Is "q" a legal option for ls?
+Yes. The option is:
+-q, --hide-control-chars
+              print ? instead of nongraphic characters
+
+4 - Is "R" a legal option for ls?
+Yes. The option is:
+-R, --recursive
+              list subdirectories recursively
+
+5 - In what directory can "ls" usually be found? (The command "ls" is a file, which executes
+a program to do the ls command.)?
+The directory is the current one, by default.  

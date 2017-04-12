@@ -1,0 +1,17 @@
+Anthony Lemmon (eu6623)
+CSC4421 Lab 001
+Homework 1 - Task 2
+who - Displays user name, and the date and time that the user account was created
+whoami - Displays user name
+uname - Displays OS kernel
+ls - Displays a list of the files and folders in the current directory
+mkdir - Creates a directory
+cd - Goes to the specified directory
+cat /etc/os-release - Displays OS information
+cp /etc/os-release ./ - Creates a file(?) that holds the OS informaton
+mv os-release newname.txt - Moves the os-release info to the new text file
+rm newname.txt - Removes the file
+cd ../ - Moves one level down (back to Lab1 directory)
+rmdir Folder1 - Removes the directory
+ls -l - Displays user, current date and time, list of directorys and files, and permissions
+
